@@ -4,7 +4,8 @@
   "description": "teste",
   "main": "index.js",
   "scripts": {
-    
+    "start": "node index.js",
+    "build": "webpack"
   },
   "author": "Rafael",
   "license": "ISC",
