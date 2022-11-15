@@ -1,0 +1,14 @@
+{
+  "name": "treino_node",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build"
+  },
+  "author": "Rafael",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
